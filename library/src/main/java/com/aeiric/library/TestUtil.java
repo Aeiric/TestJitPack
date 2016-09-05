@@ -1,4 +1,4 @@
-package com.aeiric.testjitpack;
+package com.aeiric.library;
 
 import android.util.Log;
 
